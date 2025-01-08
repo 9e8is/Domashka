@@ -6,7 +6,7 @@
 
 docker pull ghcr.io/9e8is/shorturl-service:latest
 
-docker pull ghcr.io/9e8is/shorturl-service:latest.
+docker pull ghcr.io/9e8is/todo-service:latest
 
 3)Установленные образы можно запустить командами: 
 
